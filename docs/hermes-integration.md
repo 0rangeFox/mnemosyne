@@ -4,6 +4,8 @@ Mnemosyne is designed as a native memory backend for the [Hermes Agent Framework
 
 ## Setup
 
+> Want a fastest way to install this in one line command? Check out [here](./llm-installation-guide.md#path-a-one-liner-deploy-hermes-memoryprovider).
+
 ### Step 1: Install
 
 ```bash
