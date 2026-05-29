@@ -21,7 +21,7 @@
 The fastest way to integrate Mnemosyne as Hermes's memory backend. Creates a symlink — no pip needed, no venv needed.
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/AxDSan/mnemosyne/main/deploy_hermes_provider.sh | bash
+curl -sSL https://raw.githubusercontent.com/AxDSan/mnemosyne/main/scripts/install.sh | bash
 ```
 
 **What this does:**
